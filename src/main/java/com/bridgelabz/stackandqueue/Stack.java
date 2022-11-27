@@ -90,5 +90,4 @@ public class Stack {
         stackoperation.printStack();     
 
 	}
-
 }
